@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:16.593496
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 瑜伽論卷第十四手記
 #+PROPERTY: CBETA_ID W03n0030
 #+PROPERTY: ID KR6v0037
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 030
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0037_W_014-0348a> 
 #+PROPERTY: JUAN 14
 ¶
 
-題解¶
+* 瑜伽論卷第十四手記¶
 整理者　徐紹強¶
 ¶
 
@@ -40,11 +40,10 @@
 原文，故整理本在處理其中的引文時，基本以《瑜伽師地論》為準。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 
 <pb:KR6v0037_W_014-0349a>¶
-
- 瑜伽論卷第十四手記¶
+瑜伽論卷第十四手記¶
 ¶
 
 第三，明增三門。分六异門。初第一，明依十相明三¶
